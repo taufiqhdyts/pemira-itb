@@ -1,0 +1,16 @@
+@font-face {
+  font-family:'Pettingill CF';
+  src: url("/font/PettingillCF-Bold.otf");
+}
+
+#root {
+  margin: 0;
+  font-family: 'Pettingill CF';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
